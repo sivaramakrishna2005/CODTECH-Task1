@@ -15,7 +15,7 @@
 
 Simple Calculator :- This is a java console application program that allows the user to perform simple arithmetic operations (Addition, Subtraction, Multiplication and Division) of two numbers. The user inputs 2 numbers and which operation they want to preform the code does the algebraic then outputs whatever comes out.
 
-Components
+#Components
 
 Scanner:
 
@@ -25,7 +25,7 @@ Main Method:
 
 The main method is the driver of our program; it asks the user for input, sends this to be calculated and displays what need.
 
-Steps
+#Steps
 
 Prompting for Input:
 
@@ -49,4 +49,4 @@ The user is provided with the result of the calculation.
 
 If an invalid operation is selected, The error window will be showed.
 
-Summary : This Simple Calculator program demonstrates basic concepts of user input, control flow, and arithmetic operations in Java. It serves as a useful example for beginners to understand how to build a console-based application that interacts with the user and performs calculations based on user input. 
+#Summary : This Simple Calculator program demonstrates basic concepts of user input, control flow, and arithmetic operations in Java. It serves as a useful example for beginners to understand how to build a console-based application that interacts with the user and performs calculations based on user input. 
